@@ -28,7 +28,7 @@ This system employs several agents working together:
 
 Note: the system does not actually make any trades.
 
-> **Personal note:** I'm using this project to learn how LLM agents can be composed into a multi-agent system. My main interest is comparing how the different investor personas diverge on the same ticker — particularly Taleb vs. Cathie Wood, which tend to be polar opposites.
+> **Personal note:** I'm using this project to learn how LLM agents can be composed into a multi-agent system. My main interest is comparing how the different investor personas diverge on the same ticker — particularly Taleb vs. Cathie Wood, which tend to be polar opposites. I've also been running it against $NVDA, $TSLA, and $BRK.B to see how the consensus shifts across market cycles.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
 
@@ -44,11 +44,4 @@ This project is for **educational and research purposes only**.
 
 By using this software, you agree to use it solely for learning purposes.
 
-## Table of Contents
-- [How to Install](#how-to-install)
-- [How to Run](#how-to-run)
-  - [⌨️ Command Line Interface](#️-command-line-interface)
-  - [🖥️ Web Application](#️-web-application)
-- [How to Contribute](#how-to-contribute)
-- [Feature Requests](#feature-requests)
-- [License](#licens
+## Table of C
