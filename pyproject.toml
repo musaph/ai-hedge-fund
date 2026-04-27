@@ -37,12 +37,12 @@ pre-commit = "^3.6.0"
 hedge-fund = "src.main:app"
 
 [tool.black]
-line-length = 88  # personal preference: use black's default line length
+line-length = 100  # personal preference: slightly wider lines for readability
 target-version = ["py311"]
 
 [tool.isort]
 profile = "black"
-line_length = 88
+line_length = 100
 
 [tool.mypy]
 python_version = "3.11"
